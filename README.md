@@ -17,7 +17,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Miqueias GitHub stats](https://github-readme-stats.vercel.app/api?username=miqueias-souza-silva&show_icons=true&theme=tokyonight)
+![Miqueias GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikeszs&show_icons=true&theme=tokyonight)
 
 ---
 
