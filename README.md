@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Miqueias Souza  
+# 👋 Olá, me chamo Miqueias Souza  
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
 📚 Atualmente aprendendo **Linux, Java e Desenvolvimento Web**  
